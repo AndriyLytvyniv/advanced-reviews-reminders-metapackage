@@ -1,0 +1,3 @@
+include:
+  - project: 'ci/magento-2-extensions'
+    file: 'composite.yml'

@@ -1,0 +1,10 @@
+{
+    "name": "plumrocket/advanced-reviews-reminders",
+    "version": "2.8.1",
+    "description": "Plumrocket Advanced Reviews & Reminders Metapackage for Magento 2",
+    "type": "metapackage",
+    "require": {
+        "plumrocket/module-plumbase": ">=2.11.4",
+        "plumrocket/marketplace-advanced-reviews-reminders": ">=2.8.1"
+    }
+}

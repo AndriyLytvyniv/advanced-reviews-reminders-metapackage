@@ -1,0 +1,14 @@
+{
+    "repo": "magento2-extensions/metapackages/advanced-reviews-reminders",
+    "name": "Advanced Reviews & Reminders Package for Magento 2",
+    "directory": "AdvancedReviewAndReminderMetapackage",
+    "magento_versions": {
+        "min_ce": "2.3.6",
+        "max_ce": "2.4.6",
+        "min_ee": "2.3.6",
+        "max_ee": "2.4.6"
+    },
+    "archive": {
+        "name": "marketplace-advanced-reviews-reminders_metapackage-:2.8.1"
+    }
+}
